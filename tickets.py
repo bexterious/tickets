@@ -10,4 +10,4 @@ for i in range(ticket):
         price = price + 1390
 if ticket > 3:
     price = price * 0.9
-print('Итого:' + ' ' + str(round(price)) + ' ' + 'рублей')
+print('Итого:' + ' ' + str(round(price)) + ' ' + 'руб.')
